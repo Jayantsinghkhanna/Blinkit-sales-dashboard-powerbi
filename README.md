@@ -5,6 +5,12 @@
 Blinkit operates across multiple outlet sizes, locations, and product categories.
 The objective of this project is to analyze sales performance and identify key business drivers to improve revenue, product strategy, and outlet efficiency.
 
+## 📸 Dashboard Preview
+
+![Dashboard](BlinkitSalesDashboard.png)
+
+---
+
 ---
 
 ## 📊 Key Metrics
@@ -94,12 +100,6 @@ The objective of this project is to analyze sales performance and identify key b
 * data.csv → dataset
 * dashboard.png → dashboard preview
 * README.md → project documentation
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard](BlinkitSalesDashboard.png)
 
 ---
 
